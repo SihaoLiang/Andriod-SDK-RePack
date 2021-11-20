@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+	<external>
+		<string name="sdkDir">E:\lib\sdks</string>
+		<string name="apkDir">E:\lib\apk</string>
+		<string name="keyStoreDir">E:\lib\keyStore</string>
+	</external>
+	
+	<channels>
+		<channel>
+			<string name="id">1</string>
+			<string name="name">pj</string>
+			<string name="keyStore">mwmj-sign-key.keystore</string>
+			<string name="keyStore_key">xxg5200wan</string>
+			<string name="debugkey">mwmj</string>
+			<string name="apkName">MyLuaGame.apk</string>
+		</channel>
+	</channels>
+</config>
